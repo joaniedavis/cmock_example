@@ -1,3 +1,5 @@
+#include "shape_container.h"
+
 #include "rectangle.h"
 
 void shape_container_init(uint16_t r_length, uint16_t r_width)

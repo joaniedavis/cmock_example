@@ -1,7 +1,7 @@
-#include "unity.h"
+#include "unity.h" // The testing framework
 
-#include "shape_container.h"
-#include "mock_rectangle.h"
+#include "shape_container.h" // The header for the code we are testing
+#include "mock_rectangle.h" // A mock header
 
 void setUp(void)
 {

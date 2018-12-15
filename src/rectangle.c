@@ -1,4 +1,5 @@
 #include "rectangle.h"
+
 #include <stdio.h>
 
 typedef struct rectangle
